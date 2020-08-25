@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514e;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    color: #66BFBF;
+}
+
+.top-cont h2 {
+    font-weight: normal;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top-cont {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.profile img {
+    border-radius: 50%;
+    width: 20%;
+}
+
+.profile p {
+    width: 30%;
+    margin: auto;
+    font-size: 20px;
+    margin-bottom: 35px;
+    color: #40514e;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+.codingimg {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+
+.study {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 50%;
+}
+
+.contact-me p {
+    font-size: 20px;
+    color: #40514e;
+}
+
+.btn a {
+    text-decoration: none;
+}
+
+.btn {
+    background-color: #66BFBF;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    padding: 25px 30px;
+    border-radius: 100px;
+}
+
+.btn:hover {
+    opacity: .8;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 40px;
+    margin-top: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #11999E;
+    font-family: 'Montserrat';
+    margin: 10px 20px;
+}
+
+.footer-link:hover {
+    color: #EAF6F6;
+    transition: all 1s ease;
+}
+
+.footer-link {
+    text-decoration: none;
+}
+
+.credits {
+    color: #EAF6F6;
+    font-size: 0.75em;
+    padding: 20px 0;
+}
+
+hr {
+    border: dotted #ccc 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
